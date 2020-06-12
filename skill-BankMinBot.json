@@ -1,0 +1,2900 @@
+{
+  "intents": [
+    {
+      "intent": "Banking_Activate_Card",
+      "examples": [
+        {
+          "text": "Is pin necessary to activate a card?"
+        },
+        {
+          "text": "When will my credit card begin working?"
+        },
+        {
+          "text": "What should I do to setup my credit card for online payments?"
+        },
+        {
+          "text": "What is the process to activate credit card after cancellation?"
+        },
+        {
+          "text": "What are the steps for turning on a new card?"
+        },
+        {
+          "text": "Please help me with first time activation for credit card"
+        },
+        {
+          "text": "I want to activate my credit card by internet banking"
+        },
+        {
+          "text": "I want to activate my card."
+        },
+        {
+          "text": "I want to activate master card by text"
+        },
+        {
+          "text": "I want credit card activation keys"
+        },
+        {
+          "text": "I need your help for mastercard credit card activation"
+        },
+        {
+          "text": "I need to activate it my card"
+        },
+        {
+          "text": "I got a new card"
+        },
+        {
+          "text": "How to initiate a credit card?"
+        },
+        {
+          "text": "How long does the credit card activation takes?"
+        },
+        {
+          "text": "How do I reactivate a credit card account?"
+        },
+        {
+          "text": "Can you assist me in re-enabling a card via automated teller machine?"
+        },
+        {
+          "text": "Can I initiate credit card with atm?"
+        },
+        {
+          "text": "I want to turn on my new visa card"
+        },
+        {
+          "text": "I want to reactive my cancelled card"
+        }
+      ],
+      "description": "Activate a card."
+    },
+    {
+      "intent": "Banking_Cancel_Card",
+      "examples": [
+        {
+          "text": "Details on how to apply for cancellation of credit card"
+        },
+        {
+          "text": "How to cancel a credit card without hurting its score?"
+        },
+        {
+          "text": "How to close credit card online?"
+        },
+        {
+          "text": "How to deactivate credit?"
+        },
+        {
+          "text": "I am not able to curb my spendings on credit card and so I want to close it"
+        },
+        {
+          "text": "I am not using credit card tell me how can I deactivate it"
+        },
+        {
+          "text": "I no longer need this credit card"
+        },
+        {
+          "text": "I want to know about credit deactivation process"
+        },
+        {
+          "text": "I want to raise request for deactivating my credit card"
+        },
+        {
+          "text": "Please assist me to revoke my credit card"
+        },
+        {
+          "text": "Please revoke my credit card"
+        },
+        {
+          "text": "Tell me the ways through which I can close my credit card"
+        },
+        {
+          "text": "What are the ways for closing credit card?"
+        },
+        {
+          "text": "What is the procedure for credit card deactivation?"
+        },
+        {
+          "text": "What is the process for closing credit card?"
+        },
+        {
+          "text": "What is the way to deactivate my credit card?"
+        },
+        {
+          "text": "Cancel a card"
+        },
+        {
+          "text": "Can I cancel my credit card if I have some pending dues?"
+        },
+        {
+          "text": "Can I cancel a credit card I just applied for?"
+        },
+        {
+          "text": "Annual charges are high hence want to cancel my credit card"
+        }
+      ],
+      "description": "Cancel a card."
+    },
+    {
+      "intent": "General_Connect_to_Agent",
+      "examples": [
+        {
+          "text": "Is there anyone there I can actually talk to for real?"
+        },
+        {
+          "text": "How can I skip the recorded menu and go straight to a live person?"
+        },
+        {
+          "text": "I don't want to talk to a bot."
+        },
+        {
+          "text": "I don't want to talk to you"
+        },
+        {
+          "text": "I need to speak to a representative. How would I go about doing so?"
+        },
+        {
+          "text": "I want agent"
+        },
+        {
+          "text": "I want a manager"
+        },
+        {
+          "text": "I want an agent to help me"
+        },
+        {
+          "text": "I want to talk to a person"
+        },
+        {
+          "text": "I would like to speak to a human"
+        },
+        {
+          "text": "I would like to speak to someone"
+        },
+        {
+          "text": "Need help from human"
+        },
+        {
+          "text": "Please assist me to get to an agent"
+        },
+        {
+          "text": "Operator please"
+        },
+        {
+          "text": "Please connect me to a live agent"
+        },
+        {
+          "text": "Please let me talk to a human being."
+        },
+        {
+          "text": "Pls connect"
+        },
+        {
+          "text": "Put me through to someone"
+        },
+        {
+          "text": "representative"
+        },
+        {
+          "text": "I want to speak to a person"
+        },
+        {
+          "text": "I dont want to talk to a computer"
+        },
+        {
+          "text": "call the manager"
+        },
+        {
+          "text": "I want to speak to a human"
+        },
+        {
+          "text": "I want to talk to the manager"
+        },
+        {
+          "text": "A real agent, please."
+        },
+        {
+          "text": "Call agent"
+        },
+        {
+          "text": "talk to a human"
+        },
+        {
+          "text": "Agent help"
+        },
+        {
+          "text": "Yes, take me to a real person"
+        },
+        {
+          "text": "Where is the closest agent?"
+        },
+        {
+          "text": "Send me to an agent"
+        },
+        {
+          "text": "I don't want to speak with a robot"
+        },
+        {
+          "text": "get me a person"
+        },
+        {
+          "text": "Can I connect to an agent?"
+        },
+        {
+          "text": "Can I speak to a human please?"
+        },
+        {
+          "text": "Can I speak to a live person?"
+        },
+        {
+          "text": "Can I speak to an advisor?"
+        },
+        {
+          "text": "Can I speak with somebody?"
+        },
+        {
+          "text": "Can I talk to someone?"
+        },
+        {
+          "text": "Can you assist me to connect to an agent?"
+        },
+        {
+          "text": "Can you connect me with a real person?"
+        },
+        {
+          "text": "Connect me to a live operator please."
+        },
+        {
+          "text": "Contact person"
+        },
+        {
+          "text": "Could you please transfer me to your master?"
+        },
+        {
+          "text": "Customer service representative please."
+        },
+        {
+          "text": "Do not want a robot?"
+        },
+        {
+          "text": "Hi can you transfer me"
+        }
+      ],
+      "description": "Request a human agent."
+    },
+    {
+      "intent": "Banking_Report_Missing_Card",
+      "examples": [
+        {
+          "text": "Can I lock my credit card until I find it?"
+        },
+        {
+          "text": "How do I file for a missing card?"
+        },
+        {
+          "text": "How do I go about reporting a card theft?"
+        },
+        {
+          "text": "How can I cancel my credit card which was stolen?"
+        },
+        {
+          "text": "I would like to know what to do if I lose my credit card"
+        },
+        {
+          "text": "I need assistance as I've lost my credit card"
+        },
+        {
+          "text": "I have no idea where I placed my debit card"
+        },
+        {
+          "text": "I have lost my credit card and I want to deactivate it"
+        },
+        {
+          "text": "How much is the charge for a lost card?"
+        },
+        {
+          "text": "How do I report the theft of my credit card?"
+        },
+        {
+          "text": "Help! I left my credit card with my purse in the taxi and I'm afraid someone's gonna use it"
+        },
+        {
+          "text": "What steps should be taken in the event of a missing credit card?"
+        },
+        {
+          "text": "What steps can I take when I lose my credit card?"
+        },
+        {
+          "text": "What is the way to report a lost card?"
+        },
+        {
+          "text": "What is the procedure to report stolen card?"
+        },
+        {
+          "text": "What if I lose the card?"
+        },
+        {
+          "text": "What are the options with the card loss?"
+        },
+        {
+          "text": "Someone took my card!"
+        },
+        {
+          "text": "My credit card is lost how should I cancel it"
+        },
+        {
+          "text": "Is there any charge for registering a complaint for credit card loss?"
+        }
+      ],
+      "description": "Report a lost or stolen card."
+    },
+    {
+      "intent": "Fee_Inquiry",
+      "examples": [
+        {
+          "text": "How can I pay the fee of credit card?"
+        },
+        {
+          "text": "I need assistance finding my credit card fee"
+        },
+        {
+          "text": "How much we pay for the maintenance fee?"
+        },
+        {
+          "text": "What is the charge for card?"
+        },
+        {
+          "text": "Where can I see the cost for buying the credit card?"
+        },
+        {
+          "text": "Where is the credit card fee information?"
+        },
+        {
+          "text": "Charges included in credit card"
+        },
+        {
+          "text": "Can you tell me about how much fee the bank charged for last month on my credit card?"
+        },
+        {
+          "text": "How much do you charge to my credit card?"
+        },
+        {
+          "text": "I want to know about credit card costs."
+        },
+        {
+          "text": "Give me more option about credit card charges"
+        },
+        {
+          "text": "Fee on my card"
+        },
+        {
+          "text": "Does it cost me anything to apply with your company for a credit card?"
+        },
+        {
+          "text": "What are the fees?"
+        },
+        {
+          "text": "What are the charges for new credit card?"
+        },
+        {
+          "text": "Need some help with my credit card charges/fees"
+        },
+        {
+          "text": "Is there some charge for credit card?"
+        },
+        {
+          "text": "Could you provide additional information regarding card fees?"
+        },
+        {
+          "text": "I would like to find out the cost of my credit card"
+        },
+        {
+          "text": "I want to see the costs associated with this card"
+        }
+      ],
+      "description": "Inquire about fees associated with a card."
+    },
+    {
+      "intent": "Banking_Request_Increase_In_Credit_Line",
+      "examples": [
+        {
+          "text": "Upgrade credit limit"
+        },
+        {
+          "text": "Who approves the credit limit extension?"
+        },
+        {
+          "text": "Where do I request a credit increase?"
+        },
+        {
+          "text": "What are the steps involved in increasing credit line?"
+        },
+        {
+          "text": "What are the methods with which I can improve my credit line?"
+        },
+        {
+          "text": "There is a hospital emergency. can you increase my credit limit"
+        },
+        {
+          "text": "Requesting you to remove credit restrictions"
+        },
+        {
+          "text": "I'd like a higher credit ceiling please"
+        },
+        {
+          "text": "I would like to have a bigger credit line"
+        },
+        {
+          "text": "I want to submit my latest salary slip to enhance my credit card limit"
+        },
+        {
+          "text": "I want to know about credit limitation"
+        },
+        {
+          "text": "I need to change my credit card limit"
+        },
+        {
+          "text": "I am not getting on how to increase credit limit"
+        },
+        {
+          "text": "How to apply for increase in credit limit?"
+        },
+        {
+          "text": "How often does bank increase credit limit?"
+        },
+        {
+          "text": "How do I raise credit card limit?"
+        },
+        {
+          "text": "How can I add limit to credit card?"
+        },
+        {
+          "text": "Does my credit card usage have impact on increasing the credit line?"
+        },
+        {
+          "text": "Credit bump"
+        },
+        {
+          "text": "Can you extend my current card limitation?"
+        }
+      ],
+      "description": "Request an increased credit limit."
+    },
+    {
+      "intent": "Banking_Replace_Card",
+      "examples": [
+        {
+          "text": "I need some information on how to replace credit card"
+        },
+        {
+          "text": "How do I go about requesting a new card?"
+        },
+        {
+          "text": "How do I get a card reissued?"
+        },
+        {
+          "text": "Do I need to validate my new home address in order to get a card replacement?"
+        },
+        {
+          "text": "Credit credit card replacement methods"
+        },
+        {
+          "text": "Card need to be replaced as it does not work"
+        },
+        {
+          "text": "Can you tell me how to re-issue a credit card?"
+        },
+        {
+          "text": "Can I request a replacement for my card online?"
+        },
+        {
+          "text": "Can I have helpline number to ask credit card replacement?"
+        },
+        {
+          "text": "I want card replacement same day"
+        },
+        {
+          "text": "I want to opt for the replacement of my card as it has worn out"
+        },
+        {
+          "text": "I would like to know how to replace my credit card."
+        },
+        {
+          "text": "Please substitute a new card for the worn-out one"
+        },
+        {
+          "text": "Please take this old credit card and give me new one"
+        },
+        {
+          "text": "Replacement for banking credit card"
+        },
+        {
+          "text": "Can I get info on replacing my credit card?"
+        },
+        {
+          "text": "I need to get a new card"
+        },
+        {
+          "text": "What are the methods using which I can get a new card by replacing it with old one?"
+        },
+        {
+          "text": "What is the cost for credit card replacement?"
+        },
+        {
+          "text": "Where from can I issue another card?"
+        }
+      ],
+      "description": "Replace a card."
+    },
+    {
+      "intent": "Help",
+      "examples": [
+        {
+          "text": "what can i say"
+        },
+        {
+          "text": "what can i do"
+        },
+        {
+          "text": "i need assistance"
+        },
+        {
+          "text": "help me decide"
+        },
+        {
+          "text": "help me"
+        },
+        {
+          "text": "help"
+        },
+        {
+          "text": "can you help"
+        },
+        {
+          "text": "can you assist me"
+        }
+      ],
+      "description": ""
+    },
+    {
+      "intent": "Order",
+      "examples": [
+        {
+          "text": "order for me"
+        }
+      ],
+      "description": ""
+    },
+    {
+      "intent": "Banking_Request_Checkbook",
+      "examples": [
+        {
+          "text": "Can I check the status of my check book request?"
+        },
+        {
+          "text": "Can I order checkbook thru this chat window?"
+        },
+        {
+          "text": "Can you please send me some checks?"
+        },
+        {
+          "text": "Can you tell me some options about check book issue?"
+        },
+        {
+          "text": "Could you help me get a checkbook?"
+        },
+        {
+          "text": "Do you have check book request details?"
+        },
+        {
+          "text": "How do I receive a new copy of my check book?"
+        },
+        {
+          "text": "Do you issue check books?"
+        },
+        {
+          "text": "I'm all outta checks"
+        },
+        {
+          "text": "I want to know my check book request status"
+        },
+        {
+          "text": "I want to apply for a checkbook"
+        },
+        {
+          "text": "I need assistance on getting check book"
+        },
+        {
+          "text": "How to get another check book?"
+        },
+        {
+          "text": "Help with check requisition"
+        },
+        {
+          "text": "What is the option for check book renewal?"
+        },
+        {
+          "text": "What is helpline number for requesting checkbook?"
+        },
+        {
+          "text": "What are charges for a new checkbook?"
+        },
+        {
+          "text": "Please give me the information on how to request the check-book"
+        },
+        {
+          "text": "Is it possible for me to receive a checkbook?"
+        },
+        {
+          "text": "I'm calling for help in ordering a new checkbook please."
+        }
+      ],
+      "description": "Request a checkbook."
+    },
+    {
+      "intent": "Goodbye",
+      "examples": [
+        {
+          "text": "ciao"
+        },
+        {
+          "text": "arrivederci"
+        },
+        {
+          "text": "see ya"
+        },
+        {
+          "text": "good bye"
+        },
+        {
+          "text": "so long"
+        },
+        {
+          "text": "bye"
+        }
+      ],
+      "description": "Good byes"
+    },
+    {
+      "intent": "Hours",
+      "examples": [
+        {
+          "text": "will you open on christmas"
+        },
+        {
+          "text": "What are your hours?"
+        },
+        {
+          "text": "are stores open on sunday"
+        },
+        {
+          "text": "Are the stores open early?"
+        },
+        {
+          "text": "Are you closed new Year's eve"
+        },
+        {
+          "text": "Are you closing early today"
+        },
+        {
+          "text": "Are you open during thanksgiving?"
+        },
+        {
+          "text": "Are you open on bank holidays?"
+        },
+        {
+          "text": "Are you open on Sunday"
+        },
+        {
+          "text": "Are you open on sundays, and if so what are the hours?"
+        },
+        {
+          "text": "At what hour can I swing by?"
+        },
+        {
+          "text": "Can you tell me how late the stores are open till?"
+        },
+        {
+          "text": "Does the store in the city center opens till 8pm on weekends?"
+        },
+        {
+          "text": "Hours of operation"
+        },
+        {
+          "text": "how early do you open on Saturdays"
+        },
+        {
+          "text": "How early do you open?"
+        },
+        {
+          "text": "how late are you open"
+        },
+        {
+          "text": "how late are you open tonight"
+        },
+        {
+          "text": "how late are you there"
+        },
+        {
+          "text": "how late y'all stay up till"
+        },
+        {
+          "text": "How long are you open?"
+        },
+        {
+          "text": "Is the branch open now?"
+        },
+        {
+          "text": "open hours store"
+        },
+        {
+          "text": "store hours"
+        },
+        {
+          "text": "store hrs"
+        },
+        {
+          "text": "store open"
+        },
+        {
+          "text": "store open hours?"
+        },
+        {
+          "text": "store open now"
+        },
+        {
+          "text": "What are the business hours of the store nearest to me?"
+        },
+        {
+          "text": "What are the hours of operation?"
+        },
+        {
+          "text": "What are the saturday opening times for the local store?"
+        },
+        {
+          "text": "What are ur opening hours?"
+        },
+        {
+          "text": "What is the opening time for the washington store?"
+        },
+        {
+          "text": "What time are you closing today?"
+        },
+        {
+          "text": "What time do stores close?"
+        },
+        {
+          "text": "What time do you close"
+        },
+        {
+          "text": "what time do you close on Sunday"
+        },
+        {
+          "text": "What time do you close today"
+        },
+        {
+          "text": "What time do you open on Saturdays"
+        },
+        {
+          "text": "What time does the central manchester store shut on a saturday?"
+        },
+        {
+          "text": "What time is your store open on saturday?"
+        },
+        {
+          "text": "when can i visit your store"
+        },
+        {
+          "text": "when do you close"
+        },
+        {
+          "text": "when do your stores open"
+        },
+        {
+          "text": "when does the store close"
+        },
+        {
+          "text": "will you be open Memorial day"
+        },
+        {
+          "text": "will you open for christmas"
+        }
+      ],
+      "description": ""
+    },
+    {
+      "intent": "Banking_Request_Card_Member_Agreement",
+      "examples": [
+        {
+          "text": "Can you tell me how can I request card holder agreement?"
+        },
+        {
+          "text": "Can I see the agreement?"
+        },
+        {
+          "text": "Will there be a new card member agreement for my renewed card?"
+        },
+        {
+          "text": "Will it cost me to receive a copy of the card holder agreement?"
+        },
+        {
+          "text": "Who do I contact for card member agreement?"
+        },
+        {
+          "text": "When I will receive credit member agreement?"
+        },
+        {
+          "text": "What are arbitration clauses in cardmember agreement?"
+        },
+        {
+          "text": "Looking for my credit card account agreement"
+        },
+        {
+          "text": "Looking for credit card member agreement"
+        },
+        {
+          "text": "It would be great if you help me with cardholder member agreement"
+        },
+        {
+          "text": "I want pdf of cardmember agreement"
+        },
+        {
+          "text": "I never got the cardmember agreement. can you post/email me?"
+        },
+        {
+          "text": "I need information about cardholder member agreement. please help with the same"
+        },
+        {
+          "text": "I need a copy of my card agreement"
+        },
+        {
+          "text": "How will I get card member agreement on email?"
+        },
+        {
+          "text": "How soon will you tell me about modifications made to the bank card agreement?"
+        },
+        {
+          "text": "How can I request card holder agreement?"
+        },
+        {
+          "text": "Does my card member agreement give all information about charges on credit card?"
+        },
+        {
+          "text": "Do I need to sign card member agreement?"
+        },
+        {
+          "text": "Do I have to fill out a new member agreement for a replaced card?"
+        }
+      ],
+      "description": "Request a card member agreement."
+    },
+    {
+      "intent": "Banking_Set_Up_Direct_Deposit",
+      "examples": [
+        {
+          "text": "How do I setup direct deposit?"
+        },
+        {
+          "text": "Can I set up a direct deposit without a checkbook?"
+        },
+        {
+          "text": "Can you deposit my salary right into my account?"
+        },
+        {
+          "text": "Can you mail me the direct deposit form to my residential address?"
+        },
+        {
+          "text": "Does the mobile app offer direct deposit?"
+        },
+        {
+          "text": "From where should I sign up for direct deposit"
+        },
+        {
+          "text": "How to sign up for direct deposit?"
+        },
+        {
+          "text": "How to use on-line banking for direct credit?"
+        },
+        {
+          "text": "I have query regarding process of direct deposit"
+        },
+        {
+          "text": "I want to ask about direct deposit"
+        },
+        {
+          "text": "Please guide me with direct deposit process"
+        },
+        {
+          "text": "Set up direct deposit"
+        },
+        {
+          "text": "Show me process to setup direct deposit"
+        },
+        {
+          "text": "What all details I need to fill direct deposit form?"
+        },
+        {
+          "text": "What are steps for setting up direct deposit?"
+        },
+        {
+          "text": "What are ways for setting up direct deposit?"
+        },
+        {
+          "text": "What is process to setup direct deposit?"
+        },
+        {
+          "text": "What is the way to do direct deposit?"
+        },
+        {
+          "text": "When setting up direct deposit what does deposit type mean?"
+        },
+        {
+          "text": "Where is option of direct deposit in net banking?"
+        }
+      ],
+      "description": "Set up a direct deposit for an account."
+    },
+    {
+      "intent": "Thanks",
+      "examples": [
+        {
+          "text": "that's nice of you"
+        },
+        {
+          "text": "thank you very much"
+        },
+        {
+          "text": "thx"
+        },
+        {
+          "text": "i appreciate it"
+        },
+        {
+          "text": "thank you"
+        },
+        {
+          "text": "thanks"
+        },
+        {
+          "text": "much appreciated"
+        },
+        {
+          "text": "many thanks"
+        }
+      ],
+      "description": "Thanks"
+    },
+    {
+      "intent": "user_manual",
+      "examples": [
+        {
+          "text": "how do i set the time"
+        },
+        {
+          "text": "How do I configure wifi"
+        },
+        {
+          "text": "sensor settings"
+        },
+        {
+          "text": "how do I turn on the heater"
+        }
+      ],
+      "description": ""
+    },
+    {
+      "intent": "Cancel",
+      "examples": [
+        {
+          "text": "i changed my mind"
+        },
+        {
+          "text": "cancel the request"
+        },
+        {
+          "text": "i don't want a table anymore anymore"
+        },
+        {
+          "text": "nevermind"
+        },
+        {
+          "text": "forget it"
+        },
+        {
+          "text": "never mind"
+        },
+        {
+          "text": "cancel that"
+        }
+      ],
+      "description": "Cancel the current request"
+    },
+    {
+      "intent": "Banking_Transfer_Money",
+      "examples": [
+        {
+          "text": "Transfer to outside account on app"
+        },
+        {
+          "text": "Which is the external money transfer maximum limit?"
+        },
+        {
+          "text": "Where can I do a wire exchange?"
+        },
+        {
+          "text": "Where are the internal money transfer option in mobile application?"
+        },
+        {
+          "text": "When will the beneficiary receive the wire transferred money?"
+        },
+        {
+          "text": "What is the daily limit to transfer money to some other bank?"
+        },
+        {
+          "text": "What are the options to move money to outside bank account?"
+        },
+        {
+          "text": "Transfer to checking"
+        },
+        {
+          "text": "Please walk me through the process of wire transfer"
+        },
+        {
+          "text": "Can you please help me with wire transaction?"
+        },
+        {
+          "text": "Could you please assist me with transferring funds?"
+        },
+        {
+          "text": "Could you please tell me how to transfer money?"
+        },
+        {
+          "text": "How can I transfer funds electronically?"
+        },
+        {
+          "text": "How do I add payee to my external account lists?"
+        },
+        {
+          "text": "I want to transfer some amount to another account within the same bank"
+        },
+        {
+          "text": "How do I set up recurring external transfers?"
+        },
+        {
+          "text": "How much overseas wires fund charge?"
+        },
+        {
+          "text": "I need support for international bank transfer"
+        },
+        {
+          "text": "I wand to send a wire is it secure and convenient"
+        },
+        {
+          "text": "Can I send my sister some money?"
+        }
+      ],
+      "description": "Transfer funds from one account to another."
+    },
+    {
+      "intent": "Banking_View_Pending_Charges",
+      "examples": [
+        {
+          "text": "What should I know about pending charges on my credit card?"
+        },
+        {
+          "text": "How to view unsettled charges with my credit card?"
+        },
+        {
+          "text": "How to get credit card's pending charges on-line?"
+        },
+        {
+          "text": "How do I review my credit charges awaiting confirmation?"
+        },
+        {
+          "text": "How can I access credit card pending payments?"
+        },
+        {
+          "text": "Can you show me where I can see any upcoming charges levied on my credit card account?"
+        },
+        {
+          "text": "Can you show me where I can find my charges that have not yet gone through?"
+        },
+        {
+          "text": "Can you give me information about the outstanding charges on my credit card?"
+        },
+        {
+          "text": "Can I get some info related to pending charges for my credit card using mobile application?"
+        },
+        {
+          "text": "Where can I go over my recent charges pending approval?"
+        },
+        {
+          "text": "Any outstanding charges"
+        },
+        {
+          "text": "I need pending charges for card"
+        },
+        {
+          "text": "I want to know about credit card pending charge"
+        },
+        {
+          "text": "I would like to know about my pending charges"
+        },
+        {
+          "text": "I'd like to learn more about the pending charges of my credit card"
+        },
+        {
+          "text": "Is there any information for credit card with pending charges?"
+        },
+        {
+          "text": "Pending items"
+        },
+        {
+          "text": "Please tell me about the pending charges against me"
+        },
+        {
+          "text": "Show pending"
+        },
+        {
+          "text": "What are the charges for my credit card which are yet to be approved?"
+        }
+      ],
+      "description": "View pending charges on a card account."
+    },
+    {
+      "intent": "Greetings",
+      "examples": [
+        {
+          "text": "Hello Agent"
+        },
+        {
+          "text": "yo"
+        },
+        {
+          "text": "Who is this?"
+        },
+        {
+          "text": "What's up?"
+        },
+        {
+          "text": "What's new?"
+        },
+        {
+          "text": "Ok take me back"
+        },
+        {
+          "text": "Looking good eve"
+        },
+        {
+          "text": "How r u?"
+        },
+        {
+          "text": "How is it going?"
+        },
+        {
+          "text": "How have you been?"
+        },
+        {
+          "text": "How are you today?"
+        },
+        {
+          "text": "How are things going?"
+        },
+        {
+          "text": "hiya"
+        },
+        {
+          "text": "Hi there"
+        },
+        {
+          "text": "Hi advisor"
+        },
+        {
+          "text": "hi"
+        },
+        {
+          "text": "Hey you"
+        },
+        {
+          "text": "Hey twin"
+        },
+        {
+          "text": "Hey there all"
+        },
+        {
+          "text": "Hey there"
+        },
+        {
+          "text": "Hey how are you doing"
+        },
+        {
+          "text": "Hello I am looking for some help here"
+        },
+        {
+          "text": "You there"
+        },
+        {
+          "text": "Hello"
+        },
+        {
+          "text": "Have you been well?"
+        },
+        {
+          "text": "Greetings"
+        },
+        {
+          "text": "Good to see you"
+        },
+        {
+          "text": "Good morning"
+        },
+        {
+          "text": "Good evening"
+        },
+        {
+          "text": "Good day"
+        }
+      ],
+      "description": ""
+    },
+    {
+      "intent": "Banking_View_Routing_Number",
+      "examples": [
+        {
+          "text": "Where is the routing transit number located?"
+        },
+        {
+          "text": "Find a routing number without checks"
+        },
+        {
+          "text": "Can you tell my routing number in this chat window?"
+        },
+        {
+          "text": "How do I know the routing number?"
+        },
+        {
+          "text": "How to locate bank routing number?"
+        },
+        {
+          "text": "How to search bank routing numbers?"
+        },
+        {
+          "text": "How to view international bank transfer routing number?"
+        },
+        {
+          "text": "I need to find my routing number of my bank account online."
+        },
+        {
+          "text": "I want to make international transaction so I need routing number for that"
+        },
+        {
+          "text": "Is the bank account number same as the routing number?"
+        },
+        {
+          "text": "May I know the routing number?"
+        },
+        {
+          "text": "What is an aba routing number and how do I find it?"
+        },
+        {
+          "text": "What is the aba routing number for your bank?"
+        },
+        {
+          "text": "What swift code and aba routing number I should use to wire transfer fund from foreign country?"
+        },
+        {
+          "text": "Where can I find my bank routing numbers for money transfer?"
+        },
+        {
+          "text": "Where can I find my routing id?"
+        },
+        {
+          "text": "Where can I see my routing id?"
+        },
+        {
+          "text": "Where do I locate my routing number on site please?"
+        },
+        {
+          "text": "Where do I see the routing no?"
+        },
+        {
+          "text": "Where is routing number need to find on check?"
+        }
+      ],
+      "description": "View the routing number."
+    },
+    {
+      "intent": "Banking_View_Activity",
+      "examples": [
+        {
+          "text": "Where to view my account transaction history for my checking account?"
+        },
+        {
+          "text": "When was the levy order processed for my checking account?"
+        },
+        {
+          "text": "What is the amount of interest that got credited to my a/c?"
+        },
+        {
+          "text": "View activities"
+        },
+        {
+          "text": "Transaction history"
+        },
+        {
+          "text": "Show activities"
+        },
+        {
+          "text": "See transactions"
+        },
+        {
+          "text": "Please tell me account activities detail"
+        },
+        {
+          "text": "Places where account activity history can be found"
+        },
+        {
+          "text": "I would like to see any recent activity on my account before the interest got added"
+        },
+        {
+          "text": "I want someone to help me see account activity and summary for every activity of my account"
+        },
+        {
+          "text": "I wanna check my account summary"
+        },
+        {
+          "text": "How much interest amount deposited last month in my account?"
+        },
+        {
+          "text": "How do I access checking account activity information?"
+        },
+        {
+          "text": "How can one get account activities details of his a/c?"
+        },
+        {
+          "text": "Help with viewing activity that take place in an a/c"
+        },
+        {
+          "text": "Help me get all the information about all activities of all my checking accounts"
+        },
+        {
+          "text": "From where did I get the latest credit in my account"
+        },
+        {
+          "text": "Do you know about account activities of my checking account?"
+        },
+        {
+          "text": "Can I get statement for account activities in past 10 days?"
+        }
+      ],
+      "description": "View the activity on an account."
+    }
+  ],
+  "entities": [
+    {
+      "entity": "specialist",
+      "values": [
+        {
+          "type": "synonyms",
+          "value": "Derrik",
+          "synonyms": [
+            "derek",
+            "derik",
+            "derrik",
+            "derrick"
+          ]
+        },
+        {
+          "type": "synonyms",
+          "value": "Barbara",
+          "synonyms": [
+            "barbra"
+          ]
+        },
+        {
+          "type": "synonyms",
+          "value": "Robert",
+          "synonyms": [
+            "bob"
+          ]
+        },
+        {
+          "type": "synonyms",
+          "value": "Nicholas",
+          "synonyms": [
+            "nick"
+          ]
+        },
+        {
+          "type": "synonyms",
+          "value": "Maria",
+          "synonyms": []
+        },
+        {
+          "type": "synonyms",
+          "value": "Brenda",
+          "synonyms": []
+        }
+      ]
+    },
+    {
+      "entity": "Greetings",
+      "values": [
+        {
+          "type": "synonyms",
+          "value": "Good Afternoon",
+          "synonyms": [
+            "gud af"
+          ]
+        },
+        {
+          "type": "synonyms",
+          "value": "Good Evening",
+          "synonyms": [
+            "ge",
+            "gud evng",
+            "evng",
+            "evening"
+          ]
+        },
+        {
+          "type": "synonyms",
+          "value": "Good Morning",
+          "synonyms": [
+            "gm",
+            "gud mrng",
+            "mrng",
+            "morning"
+          ]
+        }
+      ],
+      "fuzzy_match": true
+    },
+    {
+      "entity": "hours",
+      "values": [
+        {
+          "type": "synonyms",
+          "value": "hours",
+          "synonyms": []
+        }
+      ],
+      "fuzzy_match": true
+    },
+    {
+      "entity": "sys-number",
+      "values": []
+    },
+    {
+      "entity": "landmark",
+      "values": [
+        {
+          "type": "synonyms",
+          "value": "grand central",
+          "synonyms": []
+        },
+        {
+          "type": "synonyms",
+          "value": "empire state building",
+          "synonyms": [
+            "empire state",
+            "emprire state"
+          ]
+        },
+        {
+          "type": "synonyms",
+          "value": "times square",
+          "synonyms": [
+            "time sqaure",
+            "time square",
+            "times sqaure"
+          ]
+        }
+      ],
+      "fuzzy_match": true
+    },
+    {
+      "entity": "sys-time",
+      "values": []
+    },
+    {
+      "entity": "zip_code",
+      "values": [
+        {
+          "type": "patterns",
+          "value": "US Zip",
+          "patterns": [
+            "(\\b|\\s)\\d{5}(\\b|\\s)"
+          ]
+        }
+      ]
+    },
+    {
+      "entity": "sys-percentage",
+      "values": [],
+      "fuzzy_match": true
+    },
+    {
+      "entity": "sys-currency",
+      "values": [],
+      "fuzzy_match": true
+    },
+    {
+      "entity": "holiday",
+      "values": [
+        {
+          "type": "synonyms",
+          "value": "christmas eve",
+          "synonyms": [
+            "x mas eve",
+            "x-mas eve",
+            "xmas eve"
+          ]
+        },
+        {
+          "type": "synonyms",
+          "value": "labor day",
+          "synonyms": []
+        },
+        {
+          "type": "synonyms",
+          "value": "independence day",
+          "synonyms": [
+            "7/4",
+            "fourth of july",
+            "july 4",
+            "july 4th",
+            "july fourth"
+          ]
+        },
+        {
+          "type": "synonyms",
+          "value": "valentine's day",
+          "synonyms": [
+            "valentine day",
+            "valentines day"
+          ]
+        },
+        {
+          "type": "synonyms",
+          "value": "new years eve",
+          "synonyms": [
+            "12-31",
+            "12/31",
+            "dec 31",
+            "dec 31st",
+            "new year's eve"
+          ]
+        },
+        {
+          "type": "synonyms",
+          "value": "new years",
+          "synonyms": [
+            "1/1",
+            "jan 1",
+            "jan 1st",
+            "jan first",
+            "january 1",
+            "january 1st",
+            "january first",
+            "new year",
+            "new year day",
+            "new years day"
+          ]
+        },
+        {
+          "type": "synonyms",
+          "value": "memorial day",
+          "synonyms": []
+        },
+        {
+          "type": "synonyms",
+          "value": "thanksgiving",
+          "synonyms": [
+            "turkey day"
+          ]
+        },
+        {
+          "type": "synonyms",
+          "value": "christmas",
+          "synonyms": [
+            "christmas day",
+            "x man day",
+            "xmas",
+            "x mas",
+            "x-mas",
+            "x-mas day",
+            "xmas day"
+          ]
+        },
+        {
+          "type": "synonyms",
+          "value": "halloween",
+          "synonyms": []
+        }
+      ]
+    },
+    {
+      "entity": "reply",
+      "values": [
+        {
+          "type": "synonyms",
+          "value": "no",
+          "synonyms": [
+            "definitely not",
+            "don't think so",
+            "dont think so",
+            "i think not",
+            "nope",
+            "not at this time",
+            "not now"
+          ]
+        },
+        {
+          "type": "synonyms",
+          "value": "yes",
+          "synonyms": [
+            "definitely",
+            "go for it",
+            "let's do it",
+            "ok",
+            "please",
+            "sure",
+            "why not",
+            "yeah",
+            "yes",
+            "you bet",
+            "you betcha",
+            "yep"
+          ]
+        }
+      ]
+    },
+    {
+      "entity": "cards",
+      "values": [
+        {
+          "type": "synonyms",
+          "value": "Credit card",
+          "synonyms": [
+            "Platinum",
+            "Ruby"
+          ]
+        },
+        {
+          "type": "synonyms",
+          "value": "Debit card",
+          "synonyms": [
+            "Ruby",
+            "Platinum"
+          ]
+        }
+      ],
+      "fuzzy_match": true
+    },
+    {
+      "entity": "teller",
+      "values": [
+        {
+          "type": "synonyms",
+          "value": "teller",
+          "synonyms": [
+            "teller",
+            "table",
+            "room"
+          ]
+        }
+      ],
+      "fuzzy_match": true
+    },
+    {
+      "entity": "phone",
+      "values": [
+        {
+          "type": "patterns",
+          "value": "US Phone pattern",
+          "patterns": [
+            "(\\d{3})-(\\d{3})-(\\d{4})"
+          ]
+        }
+      ]
+    },
+    {
+      "entity": "sys-date",
+      "values": []
+    },
+    {
+      "entity": "fee_inquiry",
+      "values": [
+        {
+          "type": "synonyms",
+          "value": "offers",
+          "synonyms": [
+            "discount",
+            "special offers",
+            "discounts",
+            "delivers",
+            "deals"
+          ]
+        }
+      ],
+      "fuzzy_match": true
+    }
+  ],
+  "metadata": {
+    "api_version": {
+      "major_version": "v2",
+      "minor_version": "2018-11-08"
+    },
+    "from-sample": true
+  },
+  "webhooks": [
+    {
+      "url": "https://eu-gb.functions.cloud.ibm.com/api/v1/web/ameghana_cse170502%40mgit.ac.in_dev/default/fetch%20data.json",
+      "name": "main_webhook",
+      "headers": []
+    }
+  ],
+  "dialog_nodes": [
+    {
+      "type": "event_handler",
+      "output": {
+        "text": {
+          "values": [
+            "Sorry... let's try again"
+          ]
+        }
+      },
+      "parent": "slot_8_1509132875735",
+      "context": {
+        "date": null,
+        "time": null,
+        "confirm": null
+      },
+      "metadata": {},
+      "conditions": "@reply:no",
+      "event_name": "filled",
+      "dialog_node": "handler_17_1509135162089",
+      "previous_sibling": "handler_14_1509133469904"
+    },
+    {
+      "type": "event_handler",
+      "output": {},
+      "parent": "slot_8_1509132875735",
+      "context": {
+        "confirm": "@reply && slot_in_focus"
+      },
+      "metadata": {},
+      "conditions": "@reply && slot_in_focus",
+      "event_name": "input",
+      "dialog_node": "handler_9_1509132875735",
+      "previous_sibling": "handler_10_1509132875735"
+    },
+    {
+      "type": "event_handler",
+      "output": {
+        "text": {
+          "values": [
+            "Perfect!"
+          ]
+        }
+      },
+      "parent": "slot_8_1509132875735",
+      "metadata": {},
+      "conditions": "@reply:yes",
+      "event_name": "filled",
+      "dialog_node": "handler_14_1509133469904",
+      "previous_sibling": "handler_9_1509132875735"
+    },
+    {
+      "type": "event_handler",
+      "output": {
+        "text": "Let me confirm: You want an appointment for <? $date.reformatDateTime(\"EEEEE\") ?> at <? $time.reformatDateTime(\"h a\") ?>. Is this correct?"
+      },
+      "parent": "slot_8_1509132875735",
+      "metadata": {},
+      "event_name": "focus",
+      "dialog_node": "handler_10_1509132875735"
+    },
+    {
+      "type": "response_condition",
+      "output": {
+        "text": {
+          "values": [
+            "I didn't understand can you try again please"
+          ],
+          "selection_policy": "sequential"
+        }
+      },
+      "parent": "node_2_1467831978407",
+      "conditions": "anything_else",
+      "dialog_node": "response_7_1591971315028",
+      "previous_sibling": "response_10_1591971331286"
+    },
+    {
+      "type": "response_condition",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "\"<?$webhook_result_2.passages[0].passage_text?>\""
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "node_2_1467831978407",
+      "conditions": "$webhook_result_2",
+      "dialog_node": "response_10_1591971331286"
+    },
+    {
+      "type": "response_condition",
+      "output": {
+        "text": {
+          "values": [
+            "To get to our business from Times Square, take the N train downtown to Union Square"
+          ],
+          "selection_policy": "sequential"
+        }
+      },
+      "parent": "Directions",
+      "metadata": {},
+      "conditions": "@landmark:(times square)",
+      "dialog_node": "node_8_1482459217052",
+      "previous_sibling": "node_7_1482459200886"
+    },
+    {
+      "type": "response_condition",
+      "output": {
+        "text": {
+          "values": [
+            "To get to our business from Grand Central, take the 4,5 or 6 train downtown to Union Square."
+          ],
+          "selection_policy": "sequential"
+        }
+      },
+      "parent": "Directions",
+      "metadata": {},
+      "conditions": "@landmark:(grand central)",
+      "dialog_node": "node_4_1522439442155",
+      "previous_sibling": "node_8_1482459217052"
+    },
+    {
+      "type": "response_condition",
+      "output": {
+        "text": {
+          "values": [
+            "To get to our business from the Empire State Building, walk to Herald Square and take the N train to Union Square"
+          ],
+          "selection_policy": "sequential"
+        }
+      },
+      "parent": "Directions",
+      "metadata": {},
+      "conditions": "@landmark:(empire state building)",
+      "dialog_node": "node_7_1482459200886",
+      "previous_sibling": "node_3_1522439390442"
+    },
+    {
+      "type": "standard",
+      "title": "Provide location",
+      "output": {
+        "text": {
+          "values": [
+            "We're located by Union Square on the corner of 13th and Broadway"
+          ],
+          "selection_policy": "sequential"
+        }
+      },
+      "parent": "Directions",
+      "metadata": {},
+      "conditions": "true",
+      "dialog_node": "node_3_1522439390442"
+    },
+    {
+      "type": "event_handler",
+      "output": {},
+      "parent": "slot_22_1522444583114",
+      "context": {
+        "phone": "@phone"
+      },
+      "metadata": {},
+      "conditions": "@phone",
+      "event_name": "input",
+      "dialog_node": "handler_23_1522444583114",
+      "previous_sibling": "handler_24_1522444583114"
+    },
+    {
+      "type": "event_handler",
+      "output": {
+        "text": {
+          "values": [
+            "Thanks"
+          ],
+          "selection_policy": "sequential"
+        }
+      },
+      "parent": "slot_22_1522444583114",
+      "context": {},
+      "metadata": {},
+      "conditions": "true",
+      "event_name": "filled",
+      "dialog_node": "handler_22_1522598191131",
+      "previous_sibling": "handler_23_1522444583114"
+    },
+    {
+      "type": "event_handler",
+      "output": {
+        "text": "I'll just need a phone to hold your reservation"
+      },
+      "parent": "slot_22_1522444583114",
+      "metadata": {},
+      "event_name": "focus",
+      "dialog_node": "handler_24_1522444583114"
+    },
+    {
+      "type": "response_condition",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Hi there! How can I help you?"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "node_5_1590909793315",
+      "conditions": "#Greetings",
+      "dialog_node": "response_6_1590915860627",
+      "previous_sibling": "response_2_1590915837278"
+    },
+    {
+      "type": "response_condition",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Good Afternoon! How can I help you?"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "node_5_1590909793315",
+      "conditions": "@Greetings:(Good Afternoon)",
+      "dialog_node": "response_7_1590915698982",
+      "previous_sibling": "response_5_1590915627328"
+    },
+    {
+      "type": "response_condition",
+      "output": {
+        "generic": [
+          {
+            "values": [],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "node_5_1590909793315",
+      "dialog_node": "response_9_1590916218532",
+      "previous_sibling": "response_6_1590915860627"
+    },
+    {
+      "type": "response_condition",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": " Good Evening! How can I help you?"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "node_5_1590909793315",
+      "conditions": "@Greetings:(Good Evening)",
+      "dialog_node": "response_2_1590915837278",
+      "previous_sibling": "response_7_1590915698982"
+    },
+    {
+      "type": "response_condition",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Good Morning! How can I help you?"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "node_5_1590909793315",
+      "conditions": "@Greetings:(Good Morning)",
+      "dialog_node": "response_5_1590915627328"
+    },
+    {
+      "type": "response_condition",
+      "output": {
+        "text": {
+          "values": [
+            "Let me know how else I can help"
+          ],
+          "selection_policy": "sequential"
+        }
+      },
+      "parent": "Reservation using slots",
+      "context": {},
+      "metadata": {},
+      "conditions": "$user_cancelled",
+      "dialog_node": "node_10_1509697567474",
+      "previous_sibling": "node_25_1522598839584"
+    },
+    {
+      "type": "slot",
+      "output": {},
+      "parent": "Reservation using slots",
+      "metadata": {
+        "_customization": {}
+      },
+      "variable": "$phone",
+      "dialog_node": "slot_22_1522444583114",
+      "previous_sibling": "slot_8_1509132875735"
+    },
+    {
+      "type": "response_condition",
+      "output": {
+        "text": {
+          "values": [
+            "[Use IBM Cloud Functions to connect to to backend systems]"
+          ]
+        }
+      },
+      "parent": "Reservation using slots",
+      "metadata": {},
+      "conditions": "$user_needs_help",
+      "dialog_node": "node_25_1522598839584",
+      "previous_sibling": "handler_7_1509696539866"
+    },
+    {
+      "type": "event_handler",
+      "output": {
+        "text": {
+          "values": []
+        }
+      },
+      "parent": "Reservation using slots",
+      "disabled": true,
+      "metadata": {},
+      "event_name": "focus",
+      "dialog_node": "handler_7_1509696539866",
+      "previous_sibling": "handler_16_1509133697261"
+    },
+    {
+      "type": "event_handler",
+      "output": {
+        "text": {
+          "values": [
+            "OK. Canceling your request..."
+          ]
+        }
+      },
+      "parent": "Reservation using slots",
+      "context": {
+        "date": null,
+        "time": null,
+        "phone": null,
+        "confirm": null,
+        "specialist": null,
+        "user_cancelled": true
+      },
+      "metadata": {},
+      "next_step": {
+        "behavior": "skip_all_slots"
+      },
+      "conditions": "#Cancel",
+      "event_name": "generic",
+      "dialog_node": "handler_16_1509133697261",
+      "previous_sibling": "handler_3_1501275087289"
+    },
+    {
+      "type": "slot",
+      "output": {},
+      "parent": "Reservation using slots",
+      "metadata": {
+        "_customization": {
+          "mcr": true
+        }
+      },
+      "variable": "$date",
+      "dialog_node": "slot_102_1498132501942",
+      "previous_sibling": "node_3_1519173961259"
+    },
+    {
+      "type": "response_condition",
+      "output": {
+        "text": {
+          "values": [
+            "Let me check availability...  [Use IBM Cloud Functions to connect to backend systems]"
+          ]
+        }
+      },
+      "parent": "Reservation using slots",
+      "context": {},
+      "metadata": {},
+      "conditions": "true",
+      "dialog_node": "node_3_1519173961259",
+      "previous_sibling": "node_10_1509697567474"
+    },
+    {
+      "type": "slot",
+      "output": {},
+      "parent": "Reservation using slots",
+      "metadata": {},
+      "variable": "$specialist",
+      "dialog_node": "slot_12_1522596437268",
+      "previous_sibling": "slot_105_1498132552870"
+    },
+    {
+      "type": "slot",
+      "output": {},
+      "parent": "Reservation using slots",
+      "metadata": {},
+      "variable": "$confirm",
+      "dialog_node": "slot_8_1509132875735",
+      "previous_sibling": "slot_12_1522596437268"
+    },
+    {
+      "type": "slot",
+      "output": {},
+      "parent": "Reservation using slots",
+      "metadata": {
+        "_customization": {
+          "mcr": true
+        }
+      },
+      "variable": "$time",
+      "dialog_node": "slot_105_1498132552870",
+      "previous_sibling": "slot_102_1498132501942"
+    },
+    {
+      "type": "event_handler",
+      "output": {
+        "text": {
+          "values": [
+            "I see you need help making an appointment. Let me transfer you to an agent..."
+          ],
+          "selection_policy": "sequential"
+        }
+      },
+      "parent": "Reservation using slots",
+      "context": {
+        "date": null,
+        "time": null,
+        "phone": null,
+        "confirm": null,
+        "specialist": null,
+        "user_needs_help": true
+      },
+      "metadata": {},
+      "next_step": {
+        "behavior": "skip_all_slots"
+      },
+      "conditions": "#Help",
+      "event_name": "generic",
+      "dialog_node": "handler_3_1501275087289"
+    },
+    {
+      "type": "event_handler",
+      "output": {
+        "text": {
+          "values": [
+            "Enter the type of card you need."
+          ],
+          "selection_policy": "sequential"
+        }
+      },
+      "parent": "slot_3_1590918207191",
+      "event_name": "focus",
+      "dialog_node": "handler_8_1590918207225",
+      "previous_sibling": "handler_3_1590918207225"
+    },
+    {
+      "type": "event_handler",
+      "output": {},
+      "parent": "slot_3_1590918207191",
+      "context": {
+        "cards__Credit": "@cards"
+      },
+      "conditions": "@cards",
+      "event_name": "input",
+      "dialog_node": "handler_3_1590918207225"
+    },
+    {
+      "type": "standard",
+      "output": {
+        "text": "OK. Let me know how I can help"
+      },
+      "parent": "node_22_1467833484410",
+      "metadata": {},
+      "conditions": "@reply:no",
+      "dialog_node": "node_21_1468350173406",
+      "previous_sibling": "node_19_1468350024009"
+    },
+    {
+      "type": "standard",
+      "output": {
+        "text": {
+          "values": [
+            "OK. Transferring... [Use IBM Cloud Functions to connect to backend systems]"
+          ]
+        }
+      },
+      "parent": "node_22_1467833484410",
+      "metadata": {},
+      "conditions": "@reply:yes",
+      "dialog_node": "node_19_1468350024009"
+    },
+    {
+      "type": "slot",
+      "parent": "node_7_1590918185284",
+      "variable": "$cards__Credit",
+      "dialog_node": "slot_3_1590918207191",
+      "previous_sibling": "handler_1_1590918206542"
+    },
+    {
+      "type": "slot",
+      "parent": "node_7_1590918185284",
+      "variable": "$number",
+      "dialog_node": "slot_3_1590918457859",
+      "previous_sibling": "slot_3_1590918207191"
+    },
+    {
+      "type": "event_handler",
+      "parent": "node_7_1590918185284",
+      "event_name": "focus",
+      "dialog_node": "handler_1_1590918206542",
+      "previous_sibling": "node_5_1590918683246"
+    },
+    {
+      "type": "standard",
+      "title": "Delete context",
+      "parent": "node_7_1590918185284",
+      "conditions": "true",
+      "dialog_node": "node_5_1590918683246"
+    },
+    {
+      "type": "response_condition",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "15% off on platinum credit and debit cards and more benefits.\n10% off on ruby credit and debit cards and few benefits.\n"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "node_5_1590917372323",
+      "conditions": "#Fee_Inquiry",
+      "dialog_node": "response_6_1590917783368",
+      "previous_sibling": "response_1_1590917437986"
+    },
+    {
+      "type": "response_condition",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "15% off on platinum credit cards"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "node_5_1590917372323",
+      "conditions": "@fee_inquiry:offers",
+      "dialog_node": "response_1_1590917437986"
+    },
+    {
+      "type": "event_handler",
+      "output": {},
+      "parent": "slot_105_1498132552870",
+      "context": {
+        "time": "@sys-time"
+      },
+      "metadata": {},
+      "conditions": "@sys-time",
+      "event_name": "input",
+      "dialog_node": "handler_106_1498132552870",
+      "previous_sibling": "handler_107_1498132552870"
+    },
+    {
+      "type": "event_handler",
+      "output": {
+        "text": {
+          "values": [
+            "We only accept appointments between 11am and 5pm"
+          ]
+        }
+      },
+      "parent": "slot_105_1498132552870",
+      "metadata": {},
+      "next_step": {
+        "behavior": "reprompt"
+      },
+      "conditions": "$time.after('17:30:30') || $time.before('10:59:59')",
+      "event_name": "filled",
+      "dialog_node": "handler_1_1509694458589",
+      "previous_sibling": "handler_106_1498132552870"
+    },
+    {
+      "type": "event_handler",
+      "output": {
+        "text": "What time on <? $date.reformatDateTime(\"EEEEE\") ?> do you want to come in?"
+      },
+      "parent": "slot_105_1498132552870",
+      "metadata": {},
+      "event_name": "focus",
+      "dialog_node": "handler_107_1498132552870"
+    },
+    {
+      "type": "event_handler",
+      "output": {},
+      "parent": "slot_12_1522596437268",
+      "context": {
+        "specialist": "@specialist"
+      },
+      "metadata": {},
+      "conditions": "@specialist",
+      "event_name": "input",
+      "dialog_node": "handler_13_1522596437268",
+      "previous_sibling": "handler_14_1522596437268"
+    },
+    {
+      "type": "event_handler",
+      "output": {
+        "text": {
+          "values": [
+            "We'll do our best to book you with @specialist"
+          ],
+          "selection_policy": "sequential"
+        }
+      },
+      "parent": "slot_12_1522596437268",
+      "event_name": "filled",
+      "dialog_node": "handler_15_1522596463593",
+      "previous_sibling": "handler_13_1522596437268"
+    },
+    {
+      "type": "event_handler",
+      "output": {},
+      "parent": "slot_12_1522596437268",
+      "event_name": "focus",
+      "dialog_node": "handler_14_1522596437268"
+    },
+    {
+      "type": "event_handler",
+      "output": {},
+      "parent": "slot_102_1498132501942",
+      "context": {
+        "date": "@sys-date"
+      },
+      "metadata": {},
+      "conditions": "@sys-date",
+      "event_name": "input",
+      "dialog_node": "handler_103_1498132501942",
+      "previous_sibling": "handler_104_1498132501942"
+    },
+    {
+      "type": "event_handler",
+      "output": {
+        "text": {
+          "values": [
+            "Looks like you're trying to make a reservation in the past. Try again."
+          ]
+        }
+      },
+      "parent": "slot_102_1498132501942",
+      "metadata": {},
+      "next_step": {
+        "behavior": "reprompt"
+      },
+      "conditions": "$date.before(now())",
+      "event_name": "filled",
+      "dialog_node": "handler_6_1509695999145",
+      "previous_sibling": "handler_103_1498132501942"
+    },
+    {
+      "type": "event_handler",
+      "output": {
+        "text": "What day would you like to come in?"
+      },
+      "parent": "slot_102_1498132501942",
+      "metadata": {},
+      "event_name": "focus",
+      "dialog_node": "handler_104_1498132501942"
+    },
+    {
+      "type": "response_condition",
+      "parent": "node_7_1591437516437",
+      "conditions": "anything_else",
+      "dialog_node": "response_3_1591437545212",
+      "previous_sibling": "response_3_1591437543978"
+    },
+    {
+      "type": "response_condition",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "\"<?$webhook_result_1.passages[0].passage_text?>\""
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "node_7_1591437516437",
+      "conditions": "$webhook_result_1",
+      "dialog_node": "response_3_1591437543978"
+    },
+    {
+      "type": "event_handler",
+      "output": {
+        "text": {
+          "values": [
+            "Enter the quantity"
+          ],
+          "selection_policy": "sequential"
+        }
+      },
+      "parent": "slot_3_1590918457859",
+      "event_name": "focus",
+      "dialog_node": "handler_8_1590918457865",
+      "previous_sibling": "handler_9_1590918457865"
+    },
+    {
+      "type": "event_handler",
+      "output": {},
+      "parent": "slot_3_1590918457859",
+      "context": {
+        "number": "@sys-number"
+      },
+      "conditions": "@sys-number",
+      "event_name": "input",
+      "dialog_node": "handler_9_1590918457865"
+    },
+    {
+      "type": "response_condition",
+      "output": {
+        "text": {
+          "values": [
+            "Hello",
+            "Hi there",
+            "Hi. How can I help"
+          ],
+          "selection_policy": "sequential"
+        }
+      },
+      "parent": "node_13_1502484041694",
+      "metadata": {},
+      "dialog_node": "node_28_1522448362216",
+      "previous_sibling": "node_15_1488295465298"
+    },
+    {
+      "type": "response_condition",
+      "output": {
+        "text": {
+          "values": [
+            "Hello. Good evening",
+            "Hi. Good evening",
+            "Hello. How can I help this evening?"
+          ],
+          "selection_policy": "sequential"
+        }
+      },
+      "parent": "node_13_1502484041694",
+      "metadata": {},
+      "conditions": "now().after('17:00:00')",
+      "dialog_node": "node_15_1488295465298",
+      "previous_sibling": "node_1_1495022305143"
+    },
+    {
+      "type": "response_condition",
+      "output": {
+        "text": {
+          "values": [
+            "Hello. Good afternoon",
+            "Hi there. It's a beautiful afternoon",
+            "Good afternoon. How can I help?"
+          ],
+          "selection_policy": "sequential"
+        }
+      },
+      "parent": "node_13_1502484041694",
+      "metadata": {},
+      "conditions": "now().after('12:00:00') && now().before('16:59:59')",
+      "dialog_node": "node_1_1495022305143",
+      "previous_sibling": "node_16_1488295517679"
+    },
+    {
+      "type": "response_condition",
+      "output": {
+        "text": {
+          "values": [
+            "Hello. Good morning",
+            "It's a beautiful morning. Hello",
+            "Hi there. How can I help you this morning?"
+          ],
+          "selection_policy": "sequential"
+        }
+      },
+      "parent": "node_13_1502484041694",
+      "metadata": {},
+      "conditions": "now().after('04:00:00') && now().before('11:59:59')",
+      "dialog_node": "node_16_1488295517679"
+    },
+    {
+      "type": "frame",
+      "title": "I want to make an appointment",
+      "output": {},
+      "metadata": {
+        "fallback": "leave",
+        "_customization": {
+          "mcr": true
+        }
+      },
+      "conditions": "#Customer_Care_Appointments",
+      "digress_in": "does_not_return",
+      "dialog_node": "Reservation using slots",
+      "digress_out": "allow_all",
+      "previous_sibling": "Directions",
+      "digress_out_slots": "allow_all"
+    },
+    {
+      "type": "standard",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "You can view the below link for the details\nhttps://helpwithmybank.gov/get-answers/credit-cards/payments-and-late-payments/faq-credit-cards-payments-late-payments-05.html"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "conditions": "#Banking_Request_Card_Member_Agreement",
+      "dialog_node": "node_8_1591373324114",
+      "previous_sibling": "node_5_1590909793315"
+    },
+    {
+      "type": "standard",
+      "output": {},
+      "metadata": {},
+      "conditions": "#General_Greetings",
+      "digress_in": "does_not_return",
+      "dialog_node": "node_13_1502484041694",
+      "previous_sibling": "Reservation using slots"
+    },
+    {
+      "type": "standard",
+      "title": "What can I do",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "I can tell you about our store locations and opening hours, or help you set up an appointment."
+              },
+              {
+                "text": "You could also ask me to connect you to an agent."
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "conditions": "#Help",
+      "dialog_node": "node_4_1570050459690",
+      "previous_sibling": "node_22_1467833484410"
+    },
+    {
+      "type": "standard",
+      "title": "Hours",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "This is open from 09:30 am to 6:00 pm on weekdays and 10:00 am to 5:00 pm on weekends."
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "conditions": "#Hours",
+      "dialog_node": "node_10_1590911842295",
+      "previous_sibling": "node_7_1590918185284"
+    },
+    {
+      "type": "standard",
+      "output": {
+        "text": {
+          "values": [
+            "You're welcome. Just let me know if you need anything else",
+            "No problem. Just let me know if you need anything else",
+            "My pleasure. Just let me know if you need anything else"
+          ],
+          "selection_policy": "sequential"
+        }
+      },
+      "metadata": {},
+      "conditions": "#Thanks",
+      "digress_in": "does_not_return",
+      "dialog_node": "node_2_1468243505617",
+      "previous_sibling": "node_12_1468329566917"
+    },
+    {
+      "type": "frame",
+      "title": "Order",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Your order of $cards of $number quantity is placed successfully."
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "random"
+          }
+        ]
+      },
+      "next_step": {
+        "behavior": "skip_user_input"
+      },
+      "conditions": "#Order",
+      "dialog_node": "node_7_1590918185284",
+      "previous_sibling": "node_5_1590917372323"
+    },
+    {
+      "type": "standard",
+      "title": "Where are you located?",
+      "output": {},
+      "metadata": {},
+      "next_step": {
+        "behavior": "skip_user_input"
+      },
+      "conditions": "#Customer_Care_Store_Location",
+      "digress_in": "does_not_return",
+      "dialog_node": "Directions",
+      "digress_out": "allow_all",
+      "previous_sibling": "node_7_1590911348392"
+    },
+    {
+      "type": "standard",
+      "title": "Ask about product",
+      "actions": [
+        {
+          "name": "main_webhook",
+          "type": "webhook",
+          "parameters": {
+            "input": "<?input_text?>"
+          },
+          "result_variable": "webhook_result_1"
+        }
+      ],
+      "metadata": {
+        "_customization": {
+          "mcr": true
+        }
+      },
+      "conditions": "#user_manual",
+      "digress_in": "does_not_return",
+      "dialog_node": "node_7_1591437516437",
+      "previous_sibling": "Opening"
+    },
+    {
+      "type": "standard",
+      "title": "Greetings",
+      "metadata": {
+        "_customization": {
+          "mcr": true
+        }
+      },
+      "conditions": "#Greetings || @Greetings",
+      "digress_in": "does_not_return",
+      "dialog_node": "node_5_1590909793315",
+      "previous_sibling": "node_7_1591437516437"
+    },
+    {
+      "type": "standard",
+      "title": "Please transfer me to an agent",
+      "output": {
+        "text": {
+          "values": [
+            "Would you like me to transfer you to a representative?"
+          ],
+          "selection_policy": "sequential"
+        }
+      },
+      "metadata": {},
+      "conditions": "#General_Connect_to_Agent",
+      "digress_in": "does_not_return",
+      "dialog_node": "node_22_1467833484410",
+      "digress_out": "allow_all_never_return",
+      "previous_sibling": "node_2_1468243505617"
+    },
+    {
+      "type": "standard",
+      "title": "FeeEnquiry",
+      "metadata": {
+        "_customization": {
+          "mcr": true
+        }
+      },
+      "conditions": "#Fee_Inquiry || @fee_inquiry",
+      "dialog_node": "node_5_1590917372323",
+      "previous_sibling": "node_8_1591373324114"
+    },
+    {
+      "type": "standard",
+      "actions": [
+        {
+          "name": "main_webhook",
+          "type": "webhook",
+          "parameters": {
+            "input": "<?input_text?>"
+          },
+          "result_variable": "webhook_result_2"
+        }
+      ],
+      "metadata": {
+        "_customization": {
+          "mcr": true
+        }
+      },
+      "conditions": "anything_else",
+      "digress_in": "returns",
+      "dialog_node": "node_2_1467831978407",
+      "digress_out": "allow_all",
+      "previous_sibling": "node_4_1570050459690",
+      "disambiguation_opt_out": true
+    },
+    {
+      "type": "standard",
+      "title": "Thank you",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Glad to be of assistance !"
+              },
+              {
+                "text": "You are very welcome!"
+              },
+              {
+                "text": "Anytime!"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "conditions": "#Thanks",
+      "dialog_node": "node_7_1590911348392",
+      "previous_sibling": "node_10_1590911842295"
+    },
+    {
+      "type": "standard",
+      "output": {
+        "text": {
+          "values": [
+            "So long",
+            "See ya",
+            "Good bye"
+          ],
+          "selection_policy": "sequential"
+        }
+      },
+      "metadata": {},
+      "conditions": "#Goodbye",
+      "digress_in": "does_not_return",
+      "dialog_node": "node_12_1468329566917",
+      "previous_sibling": "node_13_1502484041694"
+    },
+    {
+      "type": "standard",
+      "title": "Welcome",
+      "output": {
+        "text": {
+          "values": [
+            "Hi! My name is Min. I can you help with directions to my location, hours of operation and booking an appointment. How can I help you?"
+          ],
+          "selection_policy": "sequential"
+        }
+      },
+      "context": {
+        "no_reservation": true
+      },
+      "metadata": {},
+      "conditions": "welcome",
+      "dialog_node": "Opening"
+    }
+  ],
+  "counterexamples": [],
+  "system_settings": {
+    "tooling": {
+      "store_generic_responses": true
+    },
+    "off_topic": {
+      "enabled": true
+    },
+    "disambiguation": {
+      "prompt": "Did you mean:",
+      "enabled": true,
+      "randomize": true,
+      "max_suggestions": 5,
+      "suggestion_text_policy": "title",
+      "none_of_the_above_prompt": "None of the above."
+    },
+    "system_entities": {
+      "enabled": true
+    },
+    "spelling_auto_correct": true
+  },
+  "learning_opt_out": false,
+  "name": "BankMinBot",
+  "language": "en",
+  "description": ""
+}
